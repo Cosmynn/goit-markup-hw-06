@@ -757,7 +757,7 @@ body {
   display: flex;
   align-items: center;
   padding-left: 108px;
-  padding-bottom: 40px;
+  padding-bottom: 33px;
 }
 .subscribe-text {
   font-family: "Roboto", sans-serif;
@@ -776,8 +776,8 @@ body {
   gap: 12px;
 }
 .email-form {
-  width: 324px;
-  height: 46px;
+  width: 350px;
+  height: 50px;
   background-color: rgba(47, 48, 58, 1);
   outline: none;
   border: 1px solid rgba(255, 255, 255, 0.3);
